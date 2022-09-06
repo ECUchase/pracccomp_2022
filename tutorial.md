@@ -26,3 +26,16 @@ _The Way We Were_ by G.A. Parker
 > Snuffled up; his eyes met mine, \
 > I pickled him in bright red wine \
 > And labelled each and every spine \
+
+## LISTS
+
+Unordered
+* Item 1
+* Item 2
+        *Item 2a
+        *Item 2b
+Ordered
+1. Item 1
+2. Item 2
+3. Item 3
+
